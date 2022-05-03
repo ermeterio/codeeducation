@@ -1,4 +1,4 @@
-﻿# codeeducation
+﻿# Exercício : Desenvolver um "Hello World" com o retorno "Code.education Rocks!"
 
 Comandos: 
 
